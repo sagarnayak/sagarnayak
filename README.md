@@ -1,9 +1,5 @@
 **Sagar Nayak**
 
-Building fintech systems, cloud infrastructure, and embedded software.
-
-Founder at [Hardcode Consulting](https://hardcodeconsulting.tech). We build tools for file management, mail administration, and portfolio tracking.
-
-Kotlin / Spring Boot / PostgreSQL / AWS / ESP32
+I build software that handles money and moves things. Payment systems, remittance platforms, cash logistics, distributed systems. Some of it ships to clients across the UK and Southeast Asia. Some of it lives at [Hardcode Consulting](https://hardcodeconsulting.tech).
 
 [Blog](https://blog.hardcodeconsulting.tech) · [LinkedIn](https://linkedin.com/in/sagarnayak)
