@@ -1,17 +1,9 @@
-<!-- ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
+**Sagar Nayak**
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=sagarnayak.sagarnayak) -->
+Building fintech systems, cloud infrastructure, and embedded software.
 
-<br />
+Founder at [Hardcode Consulting](https://hardcodeconsulting.tech). We build tools for file management, mail administration, and portfolio tracking.
 
-hi, i'm [Sagar Nayak](https://sagarnayak.github.io/).
+Kotlin / Spring Boot / PostgreSQL / AWS / ESP32
 
-<a href="https://www.linkedin.com/in/sagarnayak/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<br />
-<br />
-
-writing about fintech systems, cloud infra, and embedded at [blog.hardcodeconsulting.tech](https://blog.hardcodeconsulting.tech/)
-
+[Blog](https://blog.hardcodeconsulting.tech) · [LinkedIn](https://linkedin.com/in/sagarnayak)
